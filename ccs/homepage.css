@@ -1,0 +1,29 @@
+#h1 {
+    text-align: center;
+    font-size: 80px;
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(143, 143, 143);;
+    margin-bottom: 50px;
+    height: 90px;
+    
+}
+
+body {
+    text-align: center;
+    text-align: top;
+    background-color: rgb(222, 217, 222);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px
+}
+img {
+    height: 300px;
+}
+
+div {
+    display: inline-block;
+    margin: 30px;
+    margin-top: -20px
+    
+}
+
